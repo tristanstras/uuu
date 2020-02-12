@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald|Zhi+Mang+Xing");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+	font-family: 'Zhi Mang Xing', cursive;
+	 font-size: 30px;
+}
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+
+}
+a {
+	text-decoration: none;
+	color: red;
+}
+a:hover {
+	color: red;
+}
